@@ -1,7 +1,7 @@
 
 import LiquidEther from '../components/LiquidEther';
 import { Phone, Shield, Flame, Car, Wrench, Users, Calendar, Trophy, Globe, History } from 'lucide-react';
-import { Link } from 'react-router-dom';
+
 
 const Home = () => {
     return (

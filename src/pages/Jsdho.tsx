@@ -1,5 +1,5 @@
 import LiquidEther from '../components/LiquidEther';
-import { Shield, Phone, MapPin, Flag, User, Clock, AlertTriangle, Car, FileText } from 'lucide-react';
+import { Shield, MapPin, Flag, User, Clock, AlertTriangle, Car, FileText } from 'lucide-react';
 
 const Jsdho = () => {
     return (

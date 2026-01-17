@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import LiquidEther from '../components/LiquidEther';
-import { Car, ChevronRight, Droplets, Truck, Zap } from 'lucide-react';
+import { Car, ChevronRight, Truck } from 'lucide-react';
 
 // Vehicle Data
 const vehicles = [
